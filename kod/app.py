@@ -1,2 +1,2 @@
 def pozdrav("koho: str) -> None:
-            print(f"Ahoj {koho}")
+            print(f"Ahoj {koho}" cumis co?)
